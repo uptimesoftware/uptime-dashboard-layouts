@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout xmlns="http://www.uptimesoftware.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.uptimesoftware.com xsd/dashboard-layout-7.2.0.xsd">
+	<cols>
+		<col />
+		<col />
+		<col />
+	</cols>
+	<rows>
+		<row>
+			<cell />
+			<cell />
+			<cell />
+		</row>
+		<row>
+			<cell colspan="3" rowspan="3" />
+		</row>
+		<row />
+		<row />
+		<row>
+			<cell />
+			<cell />
+			<cell />
+		</row>
+		
+	</rows>
+</layout>
